@@ -1,0 +1,12 @@
+{
+	"institutions": [{
+		"name": "DPS",
+		"city": "Bengaluru"
+	}, {
+		"name": "Golkonda High School",
+		"city": "Hyderabad"
+	}, {
+		"name": "Little Flower School",
+		"city": "Chennai"
+	}]
+}
