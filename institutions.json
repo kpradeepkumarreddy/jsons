@@ -1,6 +1,12 @@
 {
 	"institutions": [{
-		"name": "Little Flower School",
+		"name": "Little Flower School-1",
+		"city": "Chennai"
+	},{
+		"name": "Little Flower School-2",
+		"city": "Chennai"
+	},{
+		"name": "Little Flower School-3",
 		"city": "Chennai"
 	}]
 }
