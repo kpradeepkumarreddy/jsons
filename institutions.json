@@ -1,12 +1,6 @@
 {
 	"institutions": [{
-		"name": "DPS",
+		"name": "VIBJYOR",
 		"city": "Bengaluru"
-	}, {
-		"name": "Golkonda High School",
-		"city": "Hyderabad"
-	}, {
-		"name": "Little Flower School",
-		"city": "Chennai"
 	}]
 }
